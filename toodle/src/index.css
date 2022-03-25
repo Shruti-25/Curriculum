@@ -1,0 +1,76 @@
+ body {
+background-color: #03071e; 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} 
+.back{
+  background-color: #03071e;
+  color:white;
+  flex-direction: row;;
+}
+.center{
+  background-color: #f7ede2;
+  border: 25 px solid white;
+  margin-top:100px;
+  border-radius: 10px solid white ;
+  margin-left: 200px;
+  margin-right: 200px;
+  color:black;
+  flex-direction: row;;
+
+}
+.enter{
+  margin-left: 10%;
+  width:70%;
+  height: 35px;
+  flex-direction: row;;
+  margin-bottom: 15px;
+}
+.btn{
+  height: 40px;
+  margin-left:2px;
+  width:70px;
+}
+.tab{
+  color:black;
+  font-size: 20px;
+}
+.oll{
+  text-decoration: none;
+  list-style: none;
+}
+
+.setBtn{
+  width:60px;
+  font-size:30px;
+  font-size: 25px;
+  width:600px;
+
+}
+.setText{
+  margin-left:25px;
+}
+
+
+.setl{
+  width:60px;
+  background-color: blueviolet;
+  font-size: 30px;
+}
+
+.setH{
+  text-align: center;
+}
+.seth{
+  color: grey;
+  margin-left: 10px;
+}
+.btn2{
+  font-size: 30px;
+}
+.bnn{
+  font-size: 30px;
+}
